@@ -67,3 +67,6 @@ Você deve ver a saída do programa no terminal.
 ## Conclusão
 
 Agora você configurou com sucesso o Visual Studio Code para escrever, compilar e executar programas em C. Você pode criar novos arquivos de código-fonte, editar e expandir seus projetos à medida que avança em seus estudos em C. Boa codificação!
+
+## Link Livro
+1. Acesse o link do livro por aqui[https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf).
