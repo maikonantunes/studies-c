@@ -6,7 +6,9 @@ int main()
        	{
 		REFAZ: printf("\n\n Escolha entre 1 e 5: ");
        		scanf("%d", &opcao);
-       		if ((opcao > 5)||(opcao <1)) goto REFAZ;  /* Opcao invalida: volta ao rotulo REFAZ */
+       		if ((opcao > 5)||(opcao <1)){
+                goto REFAZ;  /* Opcao invalida: volta ao rotulo REFAZ */
+            } 
        		switch (opcao)
           	{ 
           		case 1: 
