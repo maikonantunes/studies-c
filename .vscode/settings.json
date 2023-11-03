@@ -17,6 +17,7 @@
         "vector": "c",
         "chrono": "c",
         "cstddef": "c",
-        "cmath": "c"
+        "cmath": "c",
+        "unordered_map": "c"
     }
 }
